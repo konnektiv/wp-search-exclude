@@ -1,0 +1,10 @@
+{
+  "name": "konnektiv/search-exclude",
+  "description": "Hide any page or post from the WordPress search results by checking off the checkbox.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.2.4"
+  }
+}
